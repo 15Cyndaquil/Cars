@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_c62fdfaf381ec57c83ffe6febf2dbec913381134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a7f0963d54abbe8256f339407205bd76c621e52f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_e880c57c47a00194b0d3fdd6fc93296819977981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_d3b3f20936c870726785f842c120295286c782c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2bac63896a112ffdf762de79ed97ea26b0e3d173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_f2763a3add4ab287fed97f5a47c6a71c883c2be6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_0c46c7e01b0942477dfff522f9728d30cd1cca20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f49764532d51fb53a8f188978b8f5f4594b7d8cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_8b0ffbc0ce11d3c8f268fb2e52cebb87c4fb399e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4c8fc8bfdc4ec6255d0fa9fcd52f42a2cb8e6eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_52be49de9ccc24bbff38e37fa84bab487d658045.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_e42dff3357b9b24e87c1f095d774609d5c0ee9f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_83e36256ec497a387acc57b1e06e4e5fcc8c5bca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_08a2bbc5cd68f1376380868290bd3ea30820c21e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03006fe56d1f46f9b9e56d5c504f25ac2cd4dda3">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/instant-run_0111cfaef179a14b866ee11875ea16ef7d99f9ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="780eb9efd7d544b244fe20c4c25777b07db7f0f9">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_28f83a5f5b1097bc38545377561f53e68d963c11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/cynda/AndroidStudioProjects/Cars/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_bfb9afb40d5d3c8bea6043c753562b5acee61469.jar" />
+    </item>
+
+</items>

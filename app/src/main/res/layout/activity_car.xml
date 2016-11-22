@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_car"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.cynda.cars.CarActivity">
+
+    <EditText
+        android:layout_width="284dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:text=""
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/editColor"
+        android:hint="Color"/>
+
+    <EditText
+        android:layout_width="284dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Make"
+        android:text=""
+        android:ems="10"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/editMake" />
+
+    <EditText
+        android:layout_width="284dp"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:digits="0123456789. "
+        android:hint="Horse Power"
+        android:text=""
+        android:ems="10"
+        android:layout_below="@+id/editColor"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/editHorsePower" />
+
+    <EditText
+        android:layout_width="284dp"
+        android:layout_height="wrap_content"
+        android:hint="Engine Size"
+        android:inputType="numberDecimal"
+        android:text=""
+        android:ems="10"
+        android:layout_below="@+id/editColor"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/editEngineSize" />
+
+    <Button
+        android:text="Set My Car"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/myButton"
+        android:layout_alignBaseline="@+id/herButton"
+        android:layout_alignBottom="@+id/herButton"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="Set Her Car"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/herButton"
+        android:layout_alignBaseline="@+id/hisButton"
+        android:layout_alignBottom="@+id/hisButton"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Equals?"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/equalButton"
+        android:layout_below="@+id/herButton"
+        android:layout_toLeftOf="@+id/editEngineSize"
+        android:layout_toStartOf="@+id/editEngineSize" />
+
+    <Button
+        android:text="Output"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/outputButton"
+        android:layout_below="@+id/herButton"
+        android:layout_toRightOf="@+id/equalButton"
+        android:layout_toEndOf="@+id/equalButton" />
+
+    <TextView
+        android:text="Count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/count"
+        android:textSize="25sp"
+        android:layout_below="@+id/equalButton"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="His Car Output"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/hisOutput"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:layout_below="@+id/editHorsePower"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="Set His Car"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/hisButton"
+        android:layout_below="@+id/myOutput"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Her Car Output"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/herOutput"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_marginTop="11dp"
+        android:layout_below="@+id/hisOutput"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="My Car Output"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/myOutput"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/herOutput"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
